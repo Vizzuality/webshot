@@ -1,8 +1,15 @@
 {
     "logger": {
         "name": "webshot-service",
+<<<<<<< Updated upstream
         "level": "debug",
         "toFile": false,
         "dirLogFile": null
+=======
+        "level": "warn"
+    },
+    "service": {
+        "appUrl": "https://staging.resourcewatch.org/webshot/"
+>>>>>>> Stashed changes
     }
 }
